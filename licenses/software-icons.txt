@@ -1,0 +1,9 @@
+Software names and logos identify the tools used by Nick Drescher. Trademarks belong to their respective owners.
+
+Adobe product icons: https://www.adobe.com/cc-shared/assets/img/product-icons/svg/
+Figma, Canva and Blender icons: https://github.com/devicons/devicon (MIT icon repository; trademarks remain with the original owners).
+Cinema 4D: https://github.com/simple-icons/simple-icons (CC0 icon repository).
+DaVinci Resolve: https://commons.wikimedia.org/wiki/File:DaVinci_Resolve_17_logo.svg
+Affinity: https://static.canva.com/domain-assets/affinity/static/images/android-192x192-2.png
+
+The logos are displayed to identify software experience; they do not indicate endorsement or partnership.

@@ -1,0 +1,409 @@
+{
+  "logo": "assets/images/logo.png",
+  "hero": "assets/images/hero.jpg",
+  "portrait": "assets/images/portrait.jpg",
+  "photo": [
+    "assets/images/photo-01.jpg",
+    "assets/images/photo-02.jpg",
+    "assets/images/photo-03.jpg",
+    "assets/images/photo-04.jpg",
+    "assets/images/photo-05.jpg",
+    "assets/images/photo-06.jpg",
+    "assets/images/photo-07.jpg",
+    "assets/images/photo-08.jpg",
+    "assets/images/photo-09.jpg",
+    "assets/images/photo-10.jpg",
+    "assets/images/photo-11.jpg",
+    "assets/images/photo-12.jpg",
+    "assets/images/photo-13.jpg",
+    "assets/images/photo-14.jpg",
+    "assets/images/photo-15.jpg",
+    "assets/images/photo-16.jpg",
+    "assets/images/photo-17.jpg",
+    "assets/images/photo-18.jpg",
+    "assets/images/photo-19.jpg",
+    "assets/images/photo-20.jpg"
+  ],
+  "thumbnails": [
+    "assets/images/thumbnails-01.jpg",
+    "assets/images/thumbnails-02.jpg",
+    "assets/images/thumbnails-03.jpg",
+    "assets/images/thumbnails-04.jpg",
+    "assets/images/thumbnails-05.jpg",
+    "assets/images/thumbnails-06.jpg",
+    "assets/images/thumbnails-07.jpg",
+    "assets/images/thumbnails-08.jpg",
+    "assets/images/thumbnails-09.jpg",
+    "assets/images/thumbnails-10.jpg"
+  ],
+  "bts": [
+    "assets/images/bts-01.jpg",
+    "assets/images/bts-02.jpg",
+    "assets/images/bts-03.jpg",
+    "assets/images/bts-04.jpg",
+    "assets/images/bts-05.jpg",
+    "assets/images/bts-06.jpg",
+    "assets/images/bts-07.jpg",
+    "assets/images/bts-08.jpg",
+    "assets/images/bts-09.jpg",
+    "assets/images/bts-10.jpg",
+    "assets/images/bts-11.jpg",
+    "assets/images/bts-12.jpg",
+    "assets/images/bts-13.jpg",
+    "assets/images/bts-14.jpg",
+    "assets/images/bts-15.jpg",
+    "assets/images/bts-16.jpg",
+    "assets/images/bts-17.jpg",
+    "assets/images/bts-18.jpg"
+  ],
+  "projects": [
+    {
+      "id": "mqTAhIuRZfw",
+      "title": "Creative Case Study Elaria 2026",
+      "image": "assets/images/project-01.jpg",
+      "note": ""
+    },
+    {
+      "id": "WPClbhvNjLg",
+      "title": "Travel Film 2026",
+      "image": "assets/images/project-02.jpg",
+      "note": ""
+    },
+    {
+      "id": "Y76H__T5fqM",
+      "title": "Short Film – Videowettbewerb 2026",
+      "image": "assets/images/project-03.jpg",
+      "note": "Sonderpreis: Beste visuelle Umsetzung – ASM"
+    },
+    {
+      "id": "N5UHArc9VjE",
+      "title": "Short Film 2026",
+      "image": "assets/images/project-04.jpg",
+      "note": ""
+    },
+    {
+      "id": "CeFhH4TbJ9Y",
+      "title": "Short Film 2026",
+      "image": "assets/images/project-05.jpg",
+      "note": ""
+    },
+    {
+      "id": "7Pg0orLN0O0",
+      "title": "Imagefilm Agentur Schweiger 2023",
+      "image": "assets/images/project-06.jpg",
+      "note": ""
+    }
+  ],
+  "about": [
+    "<p>und ich mache mit Begeisterung Videos und Filme, seit ich zehn Jahre alt bin. Was mit meinem iPhone im Kinderzimmer begann, entwickelte sich über die Jahre zu einer Leidenschaft, die inzwischen auch meinen beruflichen Weg prägt. Während meiner Ausbildung zum <strong>Gestaltungstechnischen Assistenten im Bereich Medien und Kommunikation</strong> an der <strong>Medienschule Babelsberg</strong>, die ich im Juli 2026 abgeschlossen habe, konnte ich meine gestalterischen und technischen Kenntnisse vertiefen und bei meinen ersten professionellen Filmdrehs praktische Erfahrungen sammeln.<br/><br/></p>",
+    "<p>Seit Oktober 2026 bin ich bei der <strong>Elaria GmbH</strong> im Bereich Social Media &amp; Content Creation tätig, wo ich kreative Inhalte entwickle und produziere sowie die visuelle Kommunikation der Marke mitgestalte. Dabei habe ich die Möglichkeit, eigene Ideen einzubringen und umzusetzen, während ich mich sowohl kreativ als auch fachlich weiterentwickle.<br/><br/></p>",
+    "<p>Auch in Zukunft möchte ich neue Ideen ausprobieren, meine eigene Bildsprache weiterentwickeln und mit Menschen zusammenarbeiten, die genauso viel Freude daran haben, gemeinsam etwas zu gestalten. Deshalb freue ich mich darauf, neue Kontakte zu knüpfen und spannende Projekte kennenzulernen</p>"
+  ],
+  "faq": [
+    {
+      "question": "Welche Erfahrung bringe ich mit?",
+      "answer": "<p>Durch meine Ausbildung und mehrere Praktika, wie zum Beispiel bei MediaTech Hub, Agentur Schweiger und UVA GmbH, konnte ich bereits praktische Erfahrungen in der Videoproduktion, Gestaltung und Content Erstellung sammeln und meine Kenntnisse in verschiedenen Programmen ausbauen. Seit Oktober 2026 arbeite ich bei „Elaria“ im Bereich Content und Social Media und entwickle dort kreative Videoformate und Inhalte. Darüber hinaus hab ich mit der Blackmagic Pocket Cinema 6k, der Fuji X-T3, Fuji X-T30 und der Panasonic Lumix DC-GH5 gearbeitet.</p><p><br><br></p>"
+    },
+    {
+      "question": "Mit welchen Programmen arbeite ich?",
+      "answer": "<p>Zu meinen Werkzeugen gehören DaVinci Resolve Studio, Canva, Figma und die Adobe Creative Cloud mit Premiere Pro, Photoshop, After Effects, Illustrator und InDesign sowie erste Erfahrungen mit Blender, Cinema 4D und Affinity.</p>"
+    }
+  ],
+  "social": {
+    "instagram": "https://www.instagram.com/nick.grafik/",
+    "linkedin": "https://www.linkedin.com/in/nick-drescher-379266233/"
+  },
+  "contact": {
+    "phone": "+49 179 6843058",
+    "email": ""
+  },
+  "image_sizes": {
+    "assets/images/bts-08.jpg": [
+      1600,
+      1066
+    ],
+    "assets/images/photo-13.jpg": [
+      1280,
+      676
+    ],
+    "assets/images/bts-07.jpg": [
+      1600,
+      846
+    ],
+    "assets/images/bts-10.jpg": [
+      1600,
+      846
+    ],
+    "assets/images/photo-10.jpg": [
+      1600,
+      844
+    ],
+    "assets/images/bts-09.jpg": [
+      1600,
+      1066
+    ],
+    "assets/images/photo-12.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/photo-05.jpg": [
+      1600,
+      845
+    ],
+    "assets/images/bts-12.jpg": [
+      1600,
+      846
+    ],
+    "assets/images/project-05.jpg": [
+      1280,
+      720
+    ],
+    "assets/images/thumbnails-10.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/photo-20.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/photo-06.jpg": [
+      1600,
+      675
+    ],
+    "assets/images/project-06.jpg": [
+      640,
+      480
+    ],
+    "assets/images/bts-06.jpg": [
+      1600,
+      1066
+    ],
+    "assets/images/photo-11.jpg": [
+      1600,
+      845
+    ],
+    "assets/images/bts-14.jpg": [
+      1600,
+      838
+    ],
+    "assets/images/bts-13.jpg": [
+      1600,
+      741
+    ],
+    "assets/images/photo-19.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/thumbnails-06.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/logo.png": [
+      1024,
+      1024
+    ],
+    "assets/images/photo-15.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/project-03.jpg": [
+      1280,
+      720
+    ],
+    "assets/images/thumbnails-05.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/photo-17.jpg": [
+      1600,
+      845
+    ],
+    "assets/images/photo-09.jpg": [
+      1280,
+      678
+    ],
+    "assets/images/thumbnails-07.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/photo-14.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/thumbnails-03.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/project-02.jpg": [
+      1280,
+      720
+    ],
+    "assets/images/thumbnails-02.jpg": [
+      1280,
+      720
+    ],
+    "assets/images/photo-01.jpg": [
+      1600,
+      906
+    ],
+    "assets/images/photo-03.jpg": [
+      1600,
+      897
+    ],
+    "assets/images/photo-04.jpg": [
+      1600,
+      845
+    ],
+    "assets/images/thumbnails-09.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/portrait.jpg": [
+      1600,
+      1600
+    ],
+    "assets/images/photo-08.jpg": [
+      1600,
+      847
+    ],
+    "assets/images/photo-02.jpg": [
+      1600,
+      1000
+    ],
+    "assets/images/photo-16.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/thumbnails-01.jpg": [
+      1280,
+      720
+    ],
+    "assets/images/project-01.jpg": [
+      1280,
+      720
+    ],
+    "assets/images/bts-15.jpg": [
+      1600,
+      1200
+    ],
+    "assets/images/bts-11.jpg": [
+      1600,
+      748
+    ],
+    "assets/images/photo-18.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/photo-07.jpg": [
+      1600,
+      674
+    ],
+    "assets/images/bts-17.jpg": [
+      1600,
+      1200
+    ],
+    "assets/images/bts-04.jpg": [
+      1600,
+      845
+    ],
+    "assets/images/bts-02.jpg": [
+      1600,
+      845
+    ],
+    "assets/images/bts-16.jpg": [
+      1600,
+      1200
+    ],
+    "assets/images/hero.jpg": [
+      1600,
+      935
+    ],
+    "assets/images/bts-05.jpg": [
+      1600,
+      1066
+    ],
+    "assets/images/project-04.jpg": [
+      1280,
+      720
+    ],
+    "assets/images/bts-18.jpg": [
+      1600,
+      1200
+    ],
+    "assets/images/thumbnails-04.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/thumbnails-08.jpg": [
+      1600,
+      900
+    ],
+    "assets/images/bts-01.jpg": [
+      1600,
+      901
+    ],
+    "assets/images/bts-03.jpg": [
+      1600,
+      1066
+    ],
+    "assets/images/set-full.jpg": [
+      1600,
+      1066
+    ]
+  },
+  "hero_set": "assets/images/set-full.jpg",
+  "home_photos": [
+    "assets/images/photo-06.jpg",
+    "assets/images/photo-07.jpg",
+    "assets/images/photo-04.jpg",
+    "assets/images/photo-19.jpg",
+    "assets/images/photo-20.jpg",
+    "assets/images/photo-02.jpg"
+  ],
+  "software": [
+    {
+      "name": "DaVinci Resolve Studio",
+      "icon": "assets/software/davinci-resolve.svg"
+    },
+    {
+      "name": "Canva",
+      "icon": "assets/software/canva.svg"
+    },
+    {
+      "name": "Figma",
+      "icon": "assets/software/figma.svg"
+    },
+    {
+      "name": "Premiere Pro",
+      "icon": "assets/software/premiere-pro.svg"
+    },
+    {
+      "name": "Photoshop",
+      "icon": "assets/software/photoshop.svg"
+    },
+    {
+      "name": "After Effects",
+      "icon": "assets/software/after-effects.svg"
+    },
+    {
+      "name": "Illustrator",
+      "icon": "assets/software/illustrator.svg"
+    },
+    {
+      "name": "InDesign",
+      "icon": "assets/software/indesign.svg"
+    },
+    {
+      "name": "Blender",
+      "icon": "assets/software/blender.svg"
+    },
+    {
+      "name": "Cinema 4D",
+      "icon": "assets/software/cinema-4d.svg"
+    },
+    {
+      "name": "Affinity",
+      "icon": "assets/software/affinity.png"
+    }
+  ]
+}
